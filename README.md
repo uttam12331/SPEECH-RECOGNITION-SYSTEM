@@ -49,4 +49,5 @@ Accessibility tools for the hearing impaired
 Content moderation or spoken media analysis
 
 📌 Output
+
 <img width="855" height="126" alt="image" src="https://github.com/user-attachments/assets/693530cd-eeb8-4140-8ceb-aec86be1d3a3" />
