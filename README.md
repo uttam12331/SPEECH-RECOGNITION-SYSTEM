@@ -2,9 +2,13 @@
 COMPANY: CODTECH IT SOLUTIONS PVT. LTD
 
 NAME: Limbani Uttam Bharatbhai
+
 INTERN ID: CT04DG2987
+
 DOMAIN: Artificial Intelligence
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
 
 This Python project demonstrates how to convert spoken words from an audio file into text using the SpeechRecognition library and Google's free Web Speech API. The script processes .wav files and outputs a text transcription, making it a powerful starting point for applications like:
